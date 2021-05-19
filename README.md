@@ -1,5 +1,7 @@
 # Latihan PWA movie-catalogue Dicoding
 
+API yang dipakai dari [TheMovieDB](https://www.themoviedb.org/).
+
 ### Cara menjalankan aplikasi
 - Lakukan install `devDependencies` dengan mengetikkan command berikut pada terminal code editor.
 ```
@@ -31,4 +33,4 @@ Untuk membuka project, bisa dilihat di http://localhost:8080/
 
 ---
 ### Preview
-![alt text](___)
+![alt text](https://i.ibb.co/rZhNHDh/dicoding-movie-catalogue.png)
