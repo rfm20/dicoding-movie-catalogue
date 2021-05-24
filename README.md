@@ -37,7 +37,7 @@ npm install serviceworker-webpack-plugin
 ```
 
 ---
-*★ Note 02 (Tidak disarankan) ★*
+*★ Note 02★*
 
 Ikuti langkah ini jika `npm run start-dev` tidak bisa dijalankan
 
